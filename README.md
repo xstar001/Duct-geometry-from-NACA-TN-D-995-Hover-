@@ -7,6 +7,7 @@ This repo contains the duct & propeller geometry that we make use of in our expe
 More specifically:
 
 -ASB_NACA_Duct_Only-.SLDPRT       # The original Solidworks model which represents 1/3 of of the ducted fan. 
+
 -ASB_NACA_Duct_Only-.IGS          # The IGES model for general file exchange
 
 If you find these files and our experiments useful, please kindly consider citing our paper:
